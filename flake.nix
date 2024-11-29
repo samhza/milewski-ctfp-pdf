@@ -92,6 +92,7 @@
               xpatch
               xstring
               zref
+              anyfontsize
               ;
 
             inconsolata-lgc-latex = {
